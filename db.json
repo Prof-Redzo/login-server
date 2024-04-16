@@ -1,0 +1,14 @@
+{
+	"users": [
+		{
+			"name": "Redzo Efendic",
+			"email": "efendicredzo4@gmail.com",
+			"password": "123456"
+		},
+		{
+			"name": "Redzo Efendic",
+			"email": "efendicredzo42@gmail.com",
+			"password": "$2b$10$37TAcWHo8e6FiZr/EtRk.eDR2UpTxjQFFVAVizEKtQBcQ3yZEjANe"
+		}
+	]
+}
